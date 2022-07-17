@@ -196,8 +196,6 @@ def main_apv():
 
       R() 
 
-    
-
         os.system("clear")
 
         print(logo)
