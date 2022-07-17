@@ -197,7 +197,7 @@ def main_apv():
       R() 
     
 
-        print(logo)
+print(logo)
 
         print ("[$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]")
 
