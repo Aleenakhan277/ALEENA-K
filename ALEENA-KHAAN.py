@@ -574,7 +574,7 @@ class __xxx__:
 
             print(logo)
 
-            print("\033[1;32m      DOSUPPORT🙂  \033[1;37m")
+            print("\033[1;32m      DO SUPPORT🙂  \033[1;37m")
 
             print(" [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]")
 
