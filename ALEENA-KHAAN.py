@@ -240,7 +240,7 @@ logo="""\033[1;85m
 
  [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]
 
-     '\x1b[1;91m' ☆Ms☆•─────────────────•✯ALEENA✯
+'\x1b[1;91m' ☆Ms☆•─────────────────•✯ALEENA✯
 
 '\x1b[1;91m'   Author      ||    ALEENA🙂   
 
@@ -380,7 +380,7 @@ class __xxx__:
 
         global ok,cp,loop
 
-        sys.stdout.write(f"\r \x1b[1;33m[M-ULLAH]\x1b[1;33m {loop}|{len(self.id)} \x1b[1;32m[ok][{len(ok)}] ")
+        sys.stdout.write(f"\r \x1b[1;33m[ALEENA🔪]\x1b[1;33m {loop}|{len(self.id)} \x1b[1;32m[ok][{len(ok)}] ")
 
         sys.stdout.flush()
 
@@ -574,7 +574,7 @@ class __xxx__:
 
             print(logo)
 
-            print("\033[1;32m      DO SUPPORT🙂  \033[1;37m")
+            print("\033[1;32m      ENJOY 🙂  \033[1;37m")
 
             print(" [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]")
 
@@ -636,7 +636,7 @@ class __xxx__:
 
             print(logo)
 
-            print("\033[1;32m      DO SUPPORT 🙂 \033[1;37m")
+            print("\033[1;32m   ENJOY 🙂 \033[1;37m")
 
             print(" [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]")
 
