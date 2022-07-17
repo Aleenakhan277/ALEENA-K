@@ -136,7 +136,7 @@ def main_apv():
 
     os.system('clear')
 
-    os.system("xdg-open https://youtube.com/channel/UCNAeNWfXgJLaoYTIXwzxWRQ")
+    os.system("https://www.facebook.com/Aleena.tricker")
 
     print(logo)
 
